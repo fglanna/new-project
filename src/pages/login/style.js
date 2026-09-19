@@ -75,20 +75,3 @@ export const CriarText = styled.p`
 
   color: #e23dd7;
 `;
-
-/*export const TitleHighLight = styled.span`
-  color: #e4105d;
-`;
-
-export const TextContent = styled.p`
-  font-family: "Open Sans", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  width: 420px;
-  margin-bottom: 20px;
-  line-height: 22px;
-
-  color: #fff;
-`;
-*/
